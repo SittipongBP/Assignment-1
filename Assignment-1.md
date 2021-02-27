@@ -20,7 +20,7 @@
 ## ------------------------------------------------------------------------------------------
 
 <br>
-<img src="image_jenkins/01.png" width="500"/>
+<img src="image_jenkins/01.PNG" width="500"/>
 <br>
 
 - เข้าไปที่ Google Search แล้วค้นหาว่า Jenkins
@@ -29,7 +29,7 @@
 <br>
 
 <br>
-<img src="image_jenkins/02.png" width="800"/>
+<img src="image_jenkins/02.PNG" width="800"/>
 <br>
 
 - กดไปที่ Download
@@ -38,7 +38,7 @@
 <br>
 
 <br>
-<img src="image_jenkins/03.png" width="800"/>
+<img src="image_jenkins/03.PNG" width="800"/>
 <br>
 
 - ในที่นี้ใช้ระบบปฏิบัตการ Windows จึงทำการเลือกดาวน์โหลดในเวอร์ชัน Windows
@@ -46,7 +46,7 @@
 <br>
 
 <br>
-<img src="image_jenkins/04.png" width="200"/>
+<img src="image_jenkins/04.PNG" width="200"/>
 <br>
 
 - รอการดาวน์โหลดจนกว่าจะเสร็จสิ้น
@@ -54,7 +54,7 @@
 <br>
 
 <br>
-<img src="image_jenkins/05.png" width="500"/>
+<img src="image_jenkins/05.PNG" width="500"/>
 <br>
 
 - เมื่อดาวน์โหลดเสร็จสิ้น ให้คลิกติดตั้ง แล้วจะมีหน้าต่างขึ้นมาดังรูป
@@ -62,7 +62,7 @@
 
 <br>
 
-<img src="image_jenkins/06.png" width="500"/>
+<img src="image_jenkins/06.PNG" width="500"/>
 <br>
 
 - ทำการเลือกที่ติดตั้ง ซึ่งระบบจะกำหนดมาให้แล้วในไดร์ C:
@@ -70,7 +70,7 @@
 
 <br>
 
-<img src="image_jenkins/07.png" width="500"/>
+<img src="image_jenkins/07.PNG" width="500"/>
 <br>
 
 - ให้ทำการเลือก Run as service as LocalSystem เพราะจะติดตั้งไว้ที่เครื่องของเรา
@@ -78,7 +78,7 @@
 
 <br>
 
-<img src="image_jenkins/08.png" width="500"/>
+<img src="image_jenkins/08.PNG" width="500"/>
 <br>
 
 - เลือก port (มีค่าตั้งแต่ 0-65535) แล้วทำการเทส
@@ -86,7 +86,7 @@
 
 <br>
 
-<img src="image_jenkins/09.png" width="500"/>
+<img src="image_jenkins/09.PNG" width="500"/>
 <br>
 
 - เลือกที่อยู่ของโฟลเดอร์ Java JDK เวอร์ชัน 11 ที่ติดตั้งไว้
@@ -94,28 +94,28 @@
 
 <br>
 
-<img src="image_jenkins/10.png" width="500"/>
+<img src="image_jenkins/10.PNG" width="500"/>
 <br>
 
 - ขั้นตอนนี้ให้กด Next ไปเลย
 
 <br>
 
-<img src="image_jenkins/11.png" width="500"/>
+<img src="image_jenkins/11.PNG" width="500"/>
 <br>
 
 - ให้ทำการติดตั้ง โดยการกด Install
 
 <br>
 
-<img src="image_jenkins/12.png" width="500"/>
+<img src="image_jenkins/12.PNG" width="500"/>
 <br>
 
 - รอการติดตั้งสักครู่
 
 <br>
 
-<img src="image_jenkins/13.png" width="500"/>
+<img src="image_jenkins/13.PNG" width="500"/>
 <br>
 
 - เสร็จสิ้นการติดตั้งแล้ว ให้ทำการกด Finish
@@ -125,7 +125,7 @@
 
 
 
-<img src="image_jenkins/14.png" width="800"/>
+<img src="image_jenkins/14.PNG" width="800"/>
 <br>
 
 - เมื่อมีหน้าเว็บขึ้นมา ให้ทำการค้นหาไฟล์ Password ตามที่อยู่ตัวสีแดง
@@ -133,28 +133,28 @@
 
 <br>
 
-<img src="image_jenkins/15.png" width="800"/>
+<img src="image_jenkins/15.PNG" width="800"/>
 <br>
 
 - ให้กดเลือก Install suggested plugins เพื่อทำการติดตั้ง plugin อัติโนมัติ ที่ระบบจัดหามาให้
 
 <br>
 
-<img src="image_jenkins/16.png" width="800"/>
+<img src="image_jenkins/16.PNG width="800"/>
 <br>
 
 - แล้วรอการติดตั้งสักครู่
 
 <br>
 
-<img src="image_jenkins/17.png" width="800"/>
+<img src="image_jenkins/17.PNG" width="800"/>
 <br>
 
 - สำหรับการเข้าครั้งแรก ให้กรอกแบบฟอร์มตามที่กำหนดให้ถูกต้อง
 
 <br>
 
-<img src="image_jenkins/18.png" width="800"/>
+<img src="image_jenkins/18.PNG" width="800"/>
 <br>
 
 - เมื่อเสร็จแล้ว จะมีหน้าแสดง URL + port ขึ้นมา ให้ทำการบันทึกไว้
@@ -162,7 +162,7 @@
 
 <br>
 
-<img src="image_jenkins/19.png" width="800"/>
+<img src="image_jenkins/19.PNG" width="800"/>
 <br>
 
 - แล้วจะมีหน้าต่างบอกว่าพร้อมใช้งานแล้ว แสดงขึ้นมา
@@ -174,7 +174,7 @@
 ## -:- การสร้างโปรเจคใน Jenkinds -:-
 <br>
 
-<img src="image_jenkins/20.png" width="800"/>
+<img src="image_jenkins/20.PNG" width="800"/>
 <br>
 
 - เมื่อเข้ามาแล้ว ให้กดที่ Create a Job เพื่อสร้างไฟล์โปรเจคใหม่ขึ้นมา
@@ -188,7 +188,7 @@
 
 <br>
 
-<img src="image_jenkins/30.png" width="1000"/>
+<img src="image_jenkins/30.PNG" width="1000"/>
 <br>
 
 - ให้ตั้งชื่อโปรเจค โดยในที่นี้จะตั้งชื่อว่า Assignment1_jenkinds_GIT
@@ -199,7 +199,7 @@
 
 <br>
 
-<img src="image_jenkins/31.png" width="1000"/>
+<img src="image_jenkins/31.PNG" width="1000"/>
 <br>
 
 - จะได้หน้าเพจแบบนี้ขึ้นมา
@@ -207,7 +207,7 @@
 
 <br>
 
-<img src="image_jenkins/32.png" width="1000"/>
+<img src="image_jenkins/32.PNG" width="1000"/>
 <br>
 
 - เลือกไปที่ Repository URL ที่อยู่ใต้แท็บ Source Code Management
@@ -218,7 +218,7 @@
 
 <br>
 
-<img src="image_jenkins/33.png" width="1000"/>
+<img src="image_jenkins/33.PNG" width="1000"/>
 <br>
 
 - เมื่อทำการ Save แล้ว ให้กด Build Now เพื่อทดสอบผลการรันโปรแกรม
@@ -226,7 +226,7 @@
 
 <br>
 
-<img src="image_jenkins/34.png" width="1000"/>
+<img src="image_jenkins/34.PNG" width="1000"/>
 <br>
 
 - แล้วกดเข้าไปที่ Console Output เพื่อดูผลการรัน
@@ -238,7 +238,7 @@
 ## ------------------------------------------------------------------------------------------
 
 
-<img src="image_jenkins/35.png" width="1000"/>
+<img src="image_jenkins/35.PNG" width="1000"/>
 <br>
 
 - ให้ตั้งชื่อโปรเจค โดยในที่นี้จะตั้งชื่อว่า Assignment1_jenkinds_Python
@@ -247,7 +247,7 @@
 
 <br>
 
-<img src="image_jenkins/36.png" width="1000"/>
+<img src="image_jenkins/36.PNG" width="1000"/>
 <br>
 
 - แล้วกดออกมาที่หน้า Dashboard
@@ -255,14 +255,14 @@
 
 <br>
 
-<img src="image_jenkins/37.png" width="1000"/>
+<img src="image_jenkins/37.PNG" width="1000"/>
 <br>
 
 - เข้าไปที่ Manage Plugins เพื่อตั้งค่าหรือติดตั้ง Plugins ต่างๆเพิ่มเติม
 
 <br>
 
-<img src="image_jenkins/38.png" width="1000"/>
+<img src="image_jenkins/38.PNG" width="1000"/>
 <br>
 
 - ค้นหาคำว่า Python แล้วทำการติดตั้งทั้งหมด
@@ -270,14 +270,14 @@
 
 <br>
 
-<img src="image_jenkins/39.png" width="1000"/>
+<img src="image_jenkins/39.PNG" width="1000"/>
 <br>
 
 - เมื่อทำการติดตั้งเสร็จแล้ว ให้ทำการกดไปที่ config เพื่อตั้งค่าต่างๆ
 
 <br>
 
-<img src="image_jenkins/40.png" width="1000"/>
+<img src="image_jenkins/40.PNG" width="1000"/>
 <br>
 
 - ไปที่แท็บ Build แล้วเลือกตรงแถบข้างล่างว่า Execute Python Script
@@ -285,14 +285,14 @@
 
 <br>
 
-<img src="image_jenkins/41.png" width="1000"/>
+<img src="image_jenkins/41.PNG" width="1000"/>
 <br>
 
 - ทำการกด Build Now และคลิกเข้าไปที่ตัวเลขที่แสดงไว้ข้างวางกลมสีน้ำเงิน
 
 <br>
 
-<img src="image_jenkins/42.png" width="1000"/>
+<img src="image_jenkins/42.PNG" width="1000"/>
 <br>
 
 - ทำการกด Console Output เพื่อดูผลลัพธ์
@@ -305,7 +305,7 @@
 ## ------------------------------------------------------------------------------------------
 
 <br>
-<img src="image_jenkins/43.png" width="1000"/>
+<img src="image_jenkins/43.PNG" width="1000"/>
 <br>
 
 - ให้ตั้งชื่อโปรเจค โดยในที่นี้จะตั้งชื่อว่า Assignment1_Robotframework
@@ -314,7 +314,7 @@
 
 <br>
 
-<img src="image_jenkins/44.png" width="1000"/>
+<img src="image_jenkins/44.PNG" width="1000"/>
 <br>
 
 - เข้าไปที่ configure
@@ -332,7 +332,7 @@
 
 <br>
 
-<img src="image_jenkins/45.png" width="1000"/>
+<img src="image_jenkins/45.PNG" width="1000"/>
 <br>
 
 - ตั้งค่า path นำเอาข้อมูลผลการรันมาสร้างกราฟ
@@ -341,14 +341,14 @@
 
 <br>
 
-<img src="image_jenkins/46.png" width="300"/>
+<img src="image_jenkins/46.PNG" width="300"/>
 <br>
 
 - แล้วกด Build Now
 
 <br>
 
-<img src="image_jenkins/47.png" width="1000"/>
+<img src="image_jenkins/47.PNG" width="1000"/>
 <br>
 
 - จะได้ผลการรันของ Robotframework ดังภาพข้างต้น
@@ -356,15 +356,15 @@
 
 <br>
 
-<img src="image_jenkins/48.png" width="1000"/>
+<img src="image_jenkins/48.PNG" width="1000"/>
 <br>
 
 - จะได้ผลลัพธ์ ดังนี้
 
 <br>
 
-<img src="image_jenkins/49.png" width="1000"/>
-<img src="image_jenkins/50.png" width="1000"/>
+<img src="image_jenkins/49.PNG" width="1000"/>
+<img src="image_jenkins/50.PNG" width="1000"/>
 <br>
 
 - กดไปที่ Console Output เพื่อแสดงผลลัพธ์ที่ได้
@@ -372,14 +372,14 @@
 <br>
 
 
-<img src="image_jenkins/51.png" width="1000"/>
+<img src="image_jenkins/51.PNG" width="1000"/>
 <br>
 
 - ผลลัพธ์จากการทดสอบอื่นๆ ของ Robot Framework
 
 <br>
 
-<img src="image_jenkins/dashboard.png" width="1000"/>
+<img src="image_jenkins/dashboard.PNG" width="1000"/>
 <br>
 
 - ผลลัพธ์รวมทั้งหมดจากหน้า Dashboard
