@@ -325,7 +325,7 @@
 
 <br>
 
-<img src="image_jenkins/script.png" width="400"/>
+<img src="image_jenkins/script.PNG" width="400"/>
 <br>
 
 - ตัวอย่าง code ในไฟล์ robot
